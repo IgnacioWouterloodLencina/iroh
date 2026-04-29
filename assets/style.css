@@ -1,6 +1,12 @@
 .padding {
-    
+
 justify-self: center;
 padding: 10px;
+
+}
+
+body{
+
+background-color: bisque;
 
 }
