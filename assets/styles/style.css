@@ -29,9 +29,10 @@
 }
 
 #ini-caixa {
+    padding-bottom: 50px;
+    margin: px;
+    background-color: rgba(255, 255, 255, 0.644);
     display: flex;
-    padding: 0px;
-    border-radius: 10px;
     justify-self: center;
     justify-items: center;
 }
@@ -43,6 +44,7 @@
     height: 200px;
     width: 400px;
     margin: 10px;
+
 }
 
 body {
